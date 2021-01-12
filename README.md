@@ -6,6 +6,6 @@ This is not a secure blockchain, do not create a coin based off this code and ex
 Educational purposes only.
 
 # Required Libraries
-Newtonsoft.Json
-WebSocketSharp
-System.Security.Cryptography
+- Newtonsoft.Json
+- WebSocketSharp
+- System.Security.Cryptography
